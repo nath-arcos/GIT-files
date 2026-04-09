@@ -1,0 +1,22 @@
+    1  cd one drive
+    2  cd onedrive
+    3  cd desktop
+    4  git --versiob
+    5  git --version
+    6  git config --list
+    7  git config --global
+    8  git config --global user.name "Nathaly"
+    9  git config --global user.email "nath.arcos.v@gmail.com"
+   10  git config --global color.ui auto
+   11  git config --global pull.off only
+   12  git config --global init.deafultBranch main
+   13  git config --global init.defaultBranch main
+   14  mkdir git_recipes
+   15  cd git_recipes
+   16  ls
+   17  ls -a
+   18  git init
+   19  ls -a
+   20  git status
+   21  history
+   22  history >gitconfig.txt
